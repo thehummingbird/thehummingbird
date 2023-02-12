@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a robotics engineer currently based in Germany working at [Schmiede.One](https://schmiede.one/) on agri-robots. I spend most of my time with ROS based Software Engineering and Computer Vision
+I'm a robotics engineer currently based in Germany working at [Schmiede.One](https://schmiede.one/) on agri-robots. I spend most of my time with ROS based Software Engineering and Computer Vision.
 
 I've previous worked in startups and MNCs as an electronics hardware and software engineer.
 
