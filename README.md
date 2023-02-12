@@ -2,7 +2,7 @@
 
 I'm a robotics engineer currently based in Germany working at [Schmiede.One](https://schmiede.one/) on agri-robots. I spend most of my time with ROS based Software Engineering and Computer Vision, with some electronics where needed.
 
-I've previous worked in startups and MNCs as an electronics hardware and software engineer
+I've previous worked in startups and MNCs as an electronics hardware and software engineer.
 
 I love teaching Robotics and learning more along the way (when I'm not building robots, I'm big time into making content around Robotics - as blogs and videos). 
 
